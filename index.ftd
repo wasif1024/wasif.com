@@ -4,9 +4,16 @@
 
 -- ds.page: Welcome to your [FPM site](https://fpm.dev/)
 
+My first fpm website
+
 FPM Blank Package Template Repo
 
-🧑‍🚀 **Seasoned traveler?** update this file. Enjoy!
+-- ftd.row:
+
+--- ftd.text: 
+text: Login
+link: /auth/login
+
 
 
 --- ds.image: doc-site

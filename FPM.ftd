@@ -6,3 +6,13 @@ download-base-url: https://raw.githubusercontent.com/wasif1024/wasif.com/main
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
 
 -- fpm.auto-import: ds
+
+-- fpm.user-group: ftd/fans
+github-like: ftd-lang/ftd
+
+-- fpm.sitemap:
+
+# Home: /
+
+# Page of FTD fans: /ftd-fans/
+/readers: ftd/fans
